@@ -22,8 +22,8 @@
     nohup python3 monitor.py > log.log &
 
 # 效果
-![截图1](./1.png)
+![截图1](http://www.gtfly.top:81/202006110510.png)
 
-![截图2](./2.jpg)
+![截图2](http://www.gtfly.top:81/202006110511.jpg)
 
-![截图3](./3.jpg)
+![截图3](http://www.gtfly.top:81/202006110512.jpg)
