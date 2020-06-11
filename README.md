@@ -15,10 +15,8 @@
     }
 ```
 
-3. 直接运行：
+3. 运行：
 
-    python3 monitor.py
-
-后台运行：
-
-    nohup python3 monitor.py > log.log &
+        python3 monitor.py
+        # 后台运行
+        nohup python3 monitor.py > log.log &
