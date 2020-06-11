@@ -20,3 +20,10 @@
     python3 monitor.py
     # 后台运行
     nohup python3 monitor.py > log.log &
+
+# 效果
+![截图1](./1.png)
+
+![截图2](./2.jpg)
+
+![截图3](./3.jpg)
